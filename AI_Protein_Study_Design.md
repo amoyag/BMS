@@ -539,12 +539,13 @@ Here’s the list sorted alphabetically by the author's last name:
 21. Markowetz, F. *All biology is computational biology.* PLOS Biol. 15, e2002050 (2017).
 22. Mnih, V. et al. *Human-level control through deep reinforcement learning.* Nature 518, 529–533 (2015).
 23. Mollick, E. *Co-intelligence: living and working with AI.* Penguin Books (2024).
-24. Ovchinnikov, S. & Huang, P.-S. *Structure-based protein design with deep learning.* Curr Opin Chem Biol. 65, 136–144 (2021).
-25. Rampasek, L. & Goldenberg, A. *TensorFlow: Biology’s Gateway to Deep Learning?* 2, 12–14 (2016).
-26. Stevens, H. *Life Out of Sequence.* University of Chicago Press Kindle edition (2013).
-27. Tegmark, M. *Life 3.0.* Penguin Books (2018).
-28. Vaswani, A. et al. *Attention is all you need.* arXiv:1706.03762 (2017).
-29. Webb, S. *Deep learning for biology.* Nature 554, 555–557 (2018).
+24. Newport, C. What Kind of Mind does ChatGPT Have? New Yorker (2023).  https://www.newyorker.com/science/annals-of-artificial-intelligence/what-kind-of-mind-does-chatgpt-have
+25. Ovchinnikov, S. & Huang, P.-S. *Structure-based protein design with deep learning.* Curr Opin Chem Biol. 65, 136–144 (2021).
+26. Rampasek, L. & Goldenberg, A. *TensorFlow: Biology’s Gateway to Deep Learning?* 2, 12–14 (2016).
+27. Stevens, H. *Life Out of Sequence.* University of Chicago Press Kindle edition (2013).
+28. Tegmark, M. *Life 3.0.* Penguin Books (2018).
+29. Vaswani, A. et al. *Attention is all you need.* arXiv:1706.03762 (2017).
+30. Webb, S. *Deep learning for biology.* Nature 554, 555–557 (2018).
 
 
   
