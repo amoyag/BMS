@@ -514,6 +514,8 @@ Embrace this era of innovation with enthusiasm and determination. Your efforts t
 
 ## Further reading
 
+Here’s the list sorted alphabetically by the author's last name:
+
 1. Amodei, D. *Machines of Loving Grace* (2024). https://darioamodei.com/machines-of-loving-grace
 2. Angermueller, C., Pärnamaa, T., Parts, L. & Stegle, O. *Deep learning for computational biology.* Mol Syst Biol 12, 878 (2016).
 3. Baek, M. & Baker, D. *Deep learning and protein structure modeling.* Nat Methods 19, 13–14 (2022).
