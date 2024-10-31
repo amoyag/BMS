@@ -19,3 +19,4 @@ Protein Design (audio overview)](https://amoyag.github.io/BMS/4_AI_protein_scien
 [AI in Protein Science and Engineering: Embracing the Computational Revolution in Biochemistry (audio overview)](https://amoyag.github.io/BMS/AI_in_Protein_Science_and_Engineering.mp3?raw=true)
 
 
+[Outline Class 1 ](https://amoyag.github.io/BMS/AI_Protein_Study_Design-class1_outline)
