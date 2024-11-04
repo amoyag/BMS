@@ -20,3 +20,6 @@ Protein Design (audio overview)](https://amoyag.github.io/BMS/4_AI_protein_scien
 
 
 [Outline Class 1 ](https://amoyag.github.io/BMS/AI_Protein_Study_Design-class1_outline)
+
+
+[Outline Class 2 ](https://amoyag.github.io/BMS/AI_Protein_Study_Design-class2_outline)
