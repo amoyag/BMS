@@ -246,7 +246,7 @@ Deep learning is revolutionizing the analysis of complex biological data by auto
 Deep learning has significantly transformed biochemistry, particularly in protein structure prediction and drug discovery, improving accuracy and accelerating the identification of potential therapies. For students in this field, mastering deep learning techniques is essential for enhancing research capabilities and fostering collaboration across disciplines, while also opening up various career opportunities.
 
 
-## Attention is all you need. From Deep Learning to Protein Learning Models
+## Attention is all you need. From Deep Learning to Protein Language Models
 
 
 Generative Artificial Intelligence (AI) marks a significant leap in how machines interact with data. Unlike traditional AI models that perform specific tasks based on predefined rules, generative AI models can create new content—such as text, images, or even protein sequences—by learning patterns from existing data. 
